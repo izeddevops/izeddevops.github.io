@@ -1,0 +1,30 @@
+[
+    {
+        "Altitude": "0",
+        "Angle": "0",
+        "BatteryCurrent": "0.0",
+        "BatteryVoltage": "0.0",
+        "ExternalVoltage": "0.0",
+        "GNSSDOP": "0",
+        "GNSS_FIX": "0",
+        "GNSS_HDOP": "0",
+        "GSMSignal": "0",
+        "GSM_Operator": "0",
+        "Idling": "0",
+        "Latitude": "0",
+        "Longitude": "0.0",
+        "Movement": "0",
+        "Satellite": "00",
+        "SleepMode": "0",
+        "Total_Odometer": "0.0",
+        "TripStatus": "0",
+        "Unplug": "0",
+        "ac_status": false,
+        "added_date": "${trip_date} 11:59:15.322219",
+        "id": 578486,
+        "ignition": "0",
+        "imei": "${imei}",
+        "speed": "0",
+        "timestamp": "2023-03-15 11:59:00"
+      }
+]

@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "20845334b243b9ba3a9479a081357185",
+  "assets/AssetManifest.json": "487d8752d8edd8b936fbd6ba9b104204",
 "assets/Assets/AC.png": "72105642086b7197fac0820cbb7b9bb3",
 "assets/Assets/appstore.png": "a5f8b91d80715cf06d0a01ca5d6d3696",
 "assets/Assets/Car.png": "607820dcfae74cc918f93b22d7a6c2d1",
@@ -52,6 +52,7 @@ const RESOURCES = {
 "assets/Assets/SideView/Maxi_Cab/Red.png": "9031ff4f523fef4f534afa41353ac132",
 "assets/Assets/SideView/Maxi_Cab/Yellow.png": "2cb3be462214bab82db4923b17b44423",
 "assets/Assets/splash.jpg": "d59a7548445860b64cb388236efddff6",
+"assets/Assets/stopped.png": "8c8e7f07a0cebd9a128d56bcdfd3ad62",
 "assets/Assets/switch_left.png": "c3a5f23e0d4f55a9aff012107e168165",
 "assets/Assets/switch_right.png": "7455a3b487e4db176a03015ea65498fa",
 "assets/Assets/tamil.json": "a3cd4cf3a8faf683e7cd60f533f66f1c",
@@ -115,20 +116,28 @@ const RESOURCES = {
 "assets/Lotties/Layer%25201_4.zip": "bdbc9fce620dc0f0a5be8b1b4a228890",
 "assets/Lotties/splash.zip": "8e9246b8e3fa909ecdf1c87dac20776a",
 "assets/Lotties/ziglogo.json": "9c42ef0b5dbfc3d5d57e1658e4174149",
-"assets/NOTICES": "034234c298874703676a3bf343d6c251",
+"assets/NOTICES": "dede83253c12be70348b55a990c312e1",
+"assets/nulltripmodel.json": "89acfc7f73c6945c6e06d359e4101640",
+"assets/packages/flutter_google_places/assets/google_black.png": "97f2acfb6e993a0c4134d9d04dff21e2",
+"assets/packages/flutter_google_places/assets/google_white.png": "40bc3ae5444eae0b9228d83bfd865158",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "b00363533ebe0bfdb95f3694d7647f6d",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "0a94bab8e306520dc6ae14c2573972ad",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "9cda082bd7cc5642096b56fa8db15b45",
+"canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
+"canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e",
+"canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
+"canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
 "favicon.png": "69b64e3a5041498dfb76e3d4634ac79b",
+"flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
 "icons/Icon-192.png": "b5ff603aad92716b8761e87139e07b59",
 "icons/Icon-512.png": "0baabd1f557ac0b08407f7e2345f60c7",
 "icons/Icon-maskable-192.png": "cbef2857abf3109a86cf4577785312a2",
 "icons/Icon-maskable-512.png": "f6a1dd8738327dafe9e0411ed65ec6d6",
-"index.html": "932d41c63415b412a376b8caa62a153b",
-"/": "932d41c63415b412a376b8caa62a153b",
-"main.dart.js": "775cb626382ae6095be367ea56b0667a",
+"index.html": "57d4792d692449e0ecbd2d69f3e29225",
+"/": "57d4792d692449e0ecbd2d69f3e29225",
+"main.dart.js": "11530ec1407593510cea3528baabd155",
 "manifest.json": "46bacc490ed5e0e5bc9a14b0902a3fa9",
-"version.json": "8a5c2523a2f2792fb2aafd7c5b5e534e"
+"version.json": "2b420e0814cc942547edd99a74bca829"
 };
 
 // The application shell files that are downloaded before a service worker can
